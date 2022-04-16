@@ -1,0 +1,31 @@
+/* remember to hover */
+body {
+  background-color: lightcyan;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  height: 0px;
+  width: 5%;
+  border-top: grey dotted 10px;
+  border-bottom: none;
+  background-color: lightcyan;
+}
+
+img {
+  border-radius: 50%;
+  height: 150px;
+}
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+}
+p {
+  color: grey;
+}
+tr {
+  color: grey;
+}

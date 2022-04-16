@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: dimgray;
+}
+
+.container {
+    align-items: center;
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+    margin: 40px;
+}
+
+p {
+    font-size: 3rem;
+}
+
+h1 {
+    font-size: 5rem;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    margin: 20px;    
+}
+
+a {
+    font-size: 1rem;
+    color: white;
+}
